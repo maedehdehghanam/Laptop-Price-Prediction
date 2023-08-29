@@ -1,6 +1,6 @@
-# Laptop Price Prediction Project
+# Laptop Price Prediction using K-Fold Cross Validation
 
-This repository contains a machine learning project that predicts laptop prices based on data gathered from torob.com. The project utilizes data scraping techniques to collect laptop specifications and corresponding prices from the website. Using this data, a machine learning model is trained to accurately predict the price of a laptop given its specifications. This project also determines the best option among the dtaset based on the desired features, using cosine similarity.
+This repository contains a machine learning project that predicts laptop prices based on data collected from [torob.com ↗️](https://torob.com/). The project utilizes the K-Fold Cross Validation technique to evaluate and improve the model's performance. The project utilizes data scraping techniques to collect laptop specifications and corresponding prices from the website. Using this data, a machine learning model is trained to accurately predict the price of a laptop given its specifications. This project also determines the best option among the dtaset based on the desired features, using cosine similarity.
 
 ## Dataset
 
