@@ -1,0 +1,216 @@
+21500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+40500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+26500000{'cpu': 'Core i7', 'hdd': '512 gb', 'ram': '16 gb', 'ssd': '512 gb', 'stock_status': 'stock'}
+18900000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+31500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+17400000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '64 gb', 'graphic_ram': 'unified', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+56000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+31000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+18900000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+55000000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+23400000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': 'unified', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+13850000{'stock_status': 'new', 'cpu': 'Core i5', 'screen_size': '12.3 inch', 'ram': '8 gb', 'hdd': '256 gb', 'ssd': '256 gb'}
+34500000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+25609752{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+22500000{'cpu': 'Core i5', 'hdd': '256 gb', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '12.3 inch', 'stock_status': 'new'}
+23700000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+29900000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+48889000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+76489000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+69400000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+52500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': '4 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+18400000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+43800000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+114400000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+14500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+90000000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': '4 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+151300000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '2 tb', 'graphic_ram': '4 gb', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+19900000{'cpu': 'Core i5', 'stock_status': 'new'}
+16200000{'cpu': 'Core i5', 'hdd': '128 gb', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '128 mb', 'screen_size': '12.3 inch', 'stock_status': 'stock'}
+34000000{'cpu': 'Ryzen 5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '2 gb', 'screen_size': '13.4 inch', 'stock_status': 'new'}
+18800000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+77000000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+79549000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+29000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+16000000{'cpu': 'Core i5', 'hdd': '256 gb', 'ram': '8 gb', 'ssd': '128 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+21900000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '45 inch', 'stock_status': 'stock'}
+18810000{'cpu': 'Core i5', 'ram': '8 gb', 'screen_size': '14 inch', 'stock_status': 'new'}
+31900000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': '2 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+16950000{'cpu': 'Core i7', 'stock_status': 'stock'}
+17900000{'cpu': 'Core i7', 'stock_status': 'new'}
+29500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '12 inch', 'stock_status': 'stock'}
+40000000{'cpu': 'Ryzen 5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+20400000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+23000000{'stock_status': 'new', 'cpu': 'Core i7', 'screen_size': '13.5 inch', 'ram': '16 gb', 'graphic_ram': '2 gb', 'ssd': '512 gb'}
+45000000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+22000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'stock_status': 'stock'}
+100789000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': '4 gb', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+67400000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+99000000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '512 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+18000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': '2 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+72283000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+32950000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+14900000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'stock_status': 'stock'}
+29000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+10900000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '2 tb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+23650000{'stock_status': 'new'}
+60185000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+51395000{'cpu': 'Ryzen 7', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+62500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': '4 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+29500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1000 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+12550000{'stock_status': 'new'}
+17900000{'ram': '4 gb', 'stock_status': 'stock'}
+52990000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+12300000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '128 gb', 'screen_size': '45 inch', 'stock_status': 'stock'}
+12500000{'cpu': 'Core i5', 'screen_size': '13 inch', 'stock_status': 'stock'}
+16050000{'cpu': 'Core i5', 'screen_size': '14 inch', 'stock_status': 'stock'}
+89789000{'cpu': 'Core i7', 'ram': '32 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+17100000{'cpu': 'Core i5', 'ram': '8 gb', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+66000000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+28910000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+28900000{'cpu': 'Ryzen 5', 'hdd': '256 gb', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+16500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': '128 mb', 'stock_status': 'stock'}
+25500000{'cpu': 'Core i7', 'ram': '16 gb', 'graphic_ram': '2 gb', 'stock_status': 'new'}
+17200000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'graphic_ram': '2 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+146399000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': '4 gb', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+21200000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+38920000{'cpu': 'Core i7', 'hdd': '256 gb', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+29000000{'cpu': 'Core i7', 'stock_status': 'stock'}
+19000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+195000000{'cpu': 'Core i7', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+75600000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'screen_size': '15 inch', 'stock_status': 'new'}
+16500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+91970000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '512 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+30500000{'cpu': 'Ryzen 5', 'hdd': '256 gb', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+18000000{'cpu': 'Core i5', 'screen_size': '14 inch', 'stock_status': 'stock'}
+14900000{'cpu': 'Core i5', 'stock_status': 'stock'}
+22800000{'cpu': 'Core i7', 'stock_status': 'stock'}
+19510000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '1 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+72200000{'cpu': 'Core i7', 'screen_size': '13 inch', 'stock_status': 'new'}
+25900000{'cpu': 'Core i7', 'stock_status': 'new'}
+12500000{'cpu': 'Core i5', 'stock_status': 'stock'}
+42900000{'cpu': 'Ryzen 5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '512 mb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+15500000{'cpu': 'Core i5', 'screen_size': '13.3 inch', 'stock_status': 'stock'}
+20300000{'cpu': 'Core i5', 'screen_size': '12.7 inch', 'stock_status': 'new'}
+22000000{'cpu': 'Pentium', 'hdd': '128 gb', 'ram': '8 gb', 'ssd': '128 gb', 'screen_size': '8 inch', 'stock_status': 'new'}
+14500000{'stock_status': 'new'}
+18500000{'cpu': 'Core i5', 'stock_status': 'new'}
+31800000{'cpu': 'Core i7', 'ram': '16 gb', 'stock_status': 'stock'}
+30100000{'cpu': 'Core i5', 'screen_size': '14 inch', 'stock_status': 'stock'}
+39900000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+28420000{'stock_status': 'new'}
+19500000{'cpu': 'Core i7', 'stock_status': 'stock'}
+33800000{'cpu': 'Core i5', 'stock_status': 'new'}
+67400000{'cpu': 'Ryzen 7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+19950000{'cpu': 'Core i5', 'screen_size': '13.1 inch', 'stock_status': 'stock'}
+13300000{'ssd': '6 gb', 'screen_size': '12.5 inch', 'stock_status': 'stock'}
+16050000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '64 gb', 'screen_size': '10.5 inch', 'stock_status': 'new'}
+44560000{'cpu': 'Core i5', 'ram': '16 gb', 'screen_size': '12 inch', 'stock_status': 'new'}
+21900000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '240 gb', 'graphic_ram': '4 gb', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+19500000{'cpu': 'Core i7', 'screen_size': '14 inch', 'stock_status': 'stock'}
+21000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '126 gb', 'screen_size': '12.4 inch', 'stock_status': 'stock'}
+87800000{'cpu': 'Core i7', 'stock_status': 'new'}
+22900000{'cpu': 'Core i5', 'ram': '8 gb', 'graphic_ram': 'unified', 'screen_size': '12.3 inch', 'stock_status': 'new'}
+21990000{'cpu': 'Core i5', 'hdd': '128 gb', 'ram': '8 gb', 'ssd': '128 gb', 'stock_status': 'new'}
+99944000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+13550000{'stock_status': 'new'}
+60000000{'cpu': 'Core i5', 'stock_status': 'new'}
+22100000{'cpu': 'Core i5', 'screen_size': '12.7 inch', 'stock_status': 'new'}
+105099000{'cpu': 'Core i7', 'ram': '32 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+41500000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '15 inch', 'stock_status': 'stock'}
+52989000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+57995000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+42000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+23550000{'stock_status': 'new'}
+26300000{'cpu': 'Core i7', 'ssd': '512 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+19500000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '64 gb', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+33600000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+16000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': 'unified', 'screen_size': '12.3 inch', 'stock_status': 'stock'}
+49800000{'cpu': 'Core i5', 'ram': '8 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+43500000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+94000000{'cpu': 'Core i7', 'ram': '32 gb', 'graphic_ram': '4 gb', 'screen_size': '28 inch', 'stock_status': 'stock'}
+21880000{'stock_status': 'stock'}
+60900000{'cpu': 'Core i7', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+37069000{'ram': '8 gb', 'ssd': '128 gb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+15500000{'cpu': 'Core i7', 'ram': '8 gb', 'stock_status': 'stock'}
+19500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '128 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+106599000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'screen_size': '15 inch', 'stock_status': 'new'}
+14800000{'cpu': 'Core i5', 'stock_status': 'stock'}
+96000000{'cpu': 'Core i7', 'stock_status': 'new'}
+28400000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+53300000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '2 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+36800000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': '2 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+26500000{'cpu': 'Core i7', 'stock_status': 'stock'}
+44800000{'cpu': 'Core i5', 'ram': '8 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+26000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+14500000{'cpu': 'Core i5', 'ram': '4 gb', 'ssd': '128 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+23000000{'cpu': 'Core i5', 'ram': '8 gb', 'stock_status': 'stock'}
+21500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '12.5 inch', 'stock_status': 'stock'}
+84199000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': '4 gb', 'screen_size': '14.4 inch', 'stock_status': 'new'}
+23750000{'stock_status': 'new'}
+17500000{'cpu': 'Core i5', 'screen_size': '13.3 inch', 'stock_status': 'stock'}
+25200000{'stock_status': 'stock'}
+43000000{'cpu': 'Ryzen 7', 'ram': '8 gb', 'ssd': '512 gb', 'screen_size': '15 inch', 'stock_status': 'stock'}
+77199000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '14 inch', 'stock_status': 'new'}
+24000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+25500000{'stock_status': 'new'}
+57500000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '14 inch', 'stock_status': 'stock'}
+32388000{'cpu': 'Core i5', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+23000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1000 gb', 'graphic_ram': '2 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+61200000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+185000000{'cpu': 'Core i7', 'stock_status': 'new'}
+24000000{'cpu': 'Core i7', 'ram': '16 gb', 'stock_status': 'stock'}
+79303000{'cpu': 'Core i5', 'ram': '8 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+28500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+68500000{'cpu': 'Core i7', 'stock_status': 'new'}
+54995000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+81500000{'cpu': 'Core i7', 'stock_status': 'new'}
+102099000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+60000000{'cpu': 'Core i7', 'hdd': '1 tb', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': '2 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+41069000{'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+57000000{'cpu': 'Core i7', 'ram': '8 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+72700000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '14 inch', 'stock_status': 'new'}
+34990000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '12.4 inch', 'stock_status': 'new'}
+25000000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '13.3 inch', 'stock_status': 'new'}
+17600000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+45500000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+74400000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '512 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+94995000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+81995000{'cpu': 'Core i7', 'hdd': '512 gb', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+22800000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+19400000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '1 tb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'stock'}
+55000000{'cpu': 'Core i7', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '2 gb', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+152000000{'cpu': 'Core i7', 'stock_status': 'new'}
+23900000{'cpu': 'Core i7', 'ram': '8 gb', 'screen_size': '13.3 inch', 'stock_status': 'new'}
+19900000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '240 gb', 'graphic_ram': '1 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+68054000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'graphic_ram': '1 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+51500000{'cpu': 'Ryzen 5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+62120000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+21300000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '12.4 inch', 'stock_status': 'stock'}
+103000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'screen_size': '14 inch', 'stock_status': 'new'}
+17840000{'stock_status': 'stock'}
+13500000{'stock_status': 'stock'}
+81900000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '13 inch', 'stock_status': 'new'}
+28000000{'cpu': 'Core i5', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13.5 inch', 'stock_status': 'stock'}
+88400000{'cpu': 'Core i7', 'stock_status': 'new'}
+75595000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': 'unified', 'screen_size': '15 inch', 'stock_status': 'new'}
+67500000{'cpu': 'Core i7', 'stock_status': 'new'}
+39800000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+47500000{'cpu': 'Core i7', 'screen_size': '15 inch', 'stock_status': 'new'}
+43495000{'cpu': 'Core i5', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': 'unified', 'screen_size': '13.5 inch', 'stock_status': 'new'}
+24900000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 gb', 'graphic_ram': 'unified', 'screen_size': '13 inch', 'stock_status': 'new'}
+74700000{'cpu': 'Core i7', 'stock_status': 'new'}
+75500000{'cpu': 'Core i7', 'stock_status': 'new'}
+106900000{'cpu': 'Core i7', 'ram': '32 gb', 'ssd': '1 tb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+40500000{'cpu': 'Core i5', 'stock_status': 'new'}
+25080000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '512 mb', 'graphic_ram': '8 gb', 'stock_status': 'new'}
+68500000{'cpu': 'Ryzen 7', 'stock_status': 'new'}
+141000000{'cpu': 'Core i7', 'stock_status': 'new'}
+34000000{'cpu': 'Core i5', 'stock_status': 'stock'}
+47500000{'cpu': 'Core i5', 'hdd': '256 gb', 'ram': '8 gb', 'ssd': '256 gb', 'screen_size': '13 inch', 'stock_status': 'stock'}
+69000000{'cpu': 'Core i7', 'ram': '16 gb', 'ssd': '256 gb', 'graphic_ram': '6 gb', 'screen_size': '15 inch', 'stock_status': 'new'}
+51500000{'cpu': 'Ryzen 5', 'stock_status': 'new'}
+43000000{'cpu': 'Ryzen 5', 'stock_status': 'new'}
+74000000{'cpu': 'Core i7', 'stock_status': 'new'}
+49900000{'cpu': 'Core i5', 'stock_status': 'new'}
+67700000{'cpu': 'Core i7', 'stock_status': 'new'}
